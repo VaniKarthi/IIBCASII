@@ -1,0 +1,7 @@
+1.	Why Open Source?/ List any 4 features of Open source
+•	Open source software is free.
+•	Open source comes with a built-in community that continuously modifies and improves the source code.
+•	Open source provides great learning opportunities for new programmers
+•	Open source is flexible; developers can examine how the code works and freely make changes to problematic aspects of the application to better fit their unique needs.
+2.	Define Free Software
+“Free software” means software that respects users' freedom and community, it means that the users have the freedom to run, copy, distribute, study, change and improve the software. 
